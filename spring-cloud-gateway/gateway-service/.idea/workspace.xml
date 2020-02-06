@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a4d43db-7adb-4e68-ab24-84e1bc1535f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X1x6Ht0COc5Ol6DhF5LkkZOb0f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/ui" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.devglan.notificationservice.controller" />
+      <recent name="com.devglan.notificationservice.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\devglan-website-examples\spring-cloud-gateway-demo-master\spring-cloud-gateway\gateway-service\src\main\resources\ui" />
+      <recent name="D:\workspace\devglan-website-examples\spring-cloud-gateway-demo-master\spring-cloud-gateway\gateway-service\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayServiceApplication">
+    <configuration name="DiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devglan.gatewayservice.DiscoveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="first-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devglan.gatewayservice.FirstServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devglan.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="notification-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devglan.notificationservice.NotificationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="second-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.devglan.gatewayservice.secondservice.SecondServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a4d43db-7adb-4e68-ab24-84e1bc1535f4" name="Default Changelist" comment="" />
+      <created>1580227224243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580227224243</updated>
+      <workItem from="1580227242560" duration="943000" />
+      <workItem from="1580300108149" duration="485000" />
+      <workItem from="1580301196433" duration="1664000" />
+      <workItem from="1580312678951" duration="682000" />
+      <workItem from="1580319993052" duration="648000" />
+      <workItem from="1580398198374" duration="607000" />
+      <workItem from="1580899700853" duration="14153000" />
+      <workItem from="1580966031398" duration="6300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="110" key="FileChooserDialogImpl" timestamp="1580906572480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580906572480" />
+    <state width="1478" height="196" key="GridCell.Tab.0.bottom" timestamp="1580968433294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580968433294" />
+    <state width="1478" height="196" key="GridCell.Tab.0.center" timestamp="1580968433294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580968433294" />
+    <state width="1478" height="196" key="GridCell.Tab.0.left" timestamp="1580968433294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580968433294" />
+    <state width="1478" height="196" key="GridCell.Tab.0.right" timestamp="1580968433294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580968433294" />
+    <state width="1478" height="196" key="GridCell.Tab.1.bottom" timestamp="1580968433295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="196" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580968433295" />
+    <state width="1478" height="196" key="GridCell.Tab.1.center" timestamp="1580968433295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="196" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580968433295" />
+    <state width="1478" height="196" key="GridCell.Tab.1.left" timestamp="1580968433294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="196" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580968433294" />
+    <state width="1478" height="196" key="GridCell.Tab.1.right" timestamp="1580968433295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="196" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580968433295" />
+    <state x="439" y="119" key="NewModule_or_Project.wizard" timestamp="1580906579212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="119" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1580906579212" />
+    <state x="209" y="40" key="new project wizard" timestamp="1580906349385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="40" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580906349385" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580966523368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580966523368" />
+  </component>
+</project>
